@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:f050c7e2-bc58-419d-a587-ad55125e5eab"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>三毛全集（哈尔滨版）</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>制作信息</text>
+      </navLabel>
+      <content src="Text/vinfo.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>三毛一生大事记</text>
+      </navLabel>
+      <content src="Text/author.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>三毛全集01：撒哈拉的故事</text>
+      </navLabel>
+      <content src="Text/c01.xhtml"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>插图</text>
+        </navLabel>
+        <content src="Text/c01_ct.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>妈妈的一封信（代序）</text>
+        </navLabel>
+        <content src="Text/c01_forword01.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>回乡小笺（四版代序）</text>
+        </navLabel>
+        <content src="Text/c01_forword02.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>目录</text>
+        </navLabel>
+        <content src="Text/c01_toc.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>沙漠中的饭店</text>
+        </navLabel>
+        <content src="Text/c01_01.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>结婚记</text>
+        </navLabel>
+        <content src="Text/c01_02.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>悬壶济世</text>
+        </navLabel>
+        <content src="Text/c01_03.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>娃娃新娘</text>
+        </navLabel>
+        <content src="Text/c01_04.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>荒山之夜</text>
+        </navLabel>
+        <content src="Text/c01_05.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>沙漠观浴记</text>
+        </navLabel>
+        <content src="Text/c01_06.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>爱的寻求</text>
+        </navLabel>
+        <content src="Text/c01_07.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>芳邻</text>
+        </navLabel>
+        <content src="Text/c01_08.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>素人渔夫</text>
+        </navLabel>
+        <content src="Text/c01_09.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>死果</text>
+        </navLabel>
+        <content src="Text/c01_10.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>天梯</text>
+        </navLabel>
+        <content src="Text/c01_11.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>白手成家</text>
+        </navLabel>
+        <content src="Text/c01_12.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>三毛全集·附录：三毛歌词</text>
+      </navLabel>
+      <content src="Text/fulu.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
