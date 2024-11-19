@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>張愛玲全集：長篇小説</dc:title>
+    <dc:language>zh-TW</dc:language>
+    <dc:creator>張愛玲</dc:creator>
+    <dc:publisher>印象出品</dc:publisher>
+    <dc:date opf:event="creation">2024-10-11</dc:date>
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2024-11-19</dc:date>
+    <meta content="1.8.0" name="Sigil version"/>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:ef1e7b44-3376-4c24-8da4-7bf29f38c078</dc:identifier>
+    <meta name="cover" content="cover.jpg"/>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="page_styles.css" href="Styles/page_styles.css" media-type="text/css"/>
+    <item id="stylesheet.css" href="Styles/stylesheet.css" media-type="text/css"/>
+    <item id="vinfo.xhtml" href="Text/vinfo.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1948BSY_z01.png" href="Images/1948BSY_z01.png" media-type="image/png"/>
+    <item id="x1948BSY_cover.jpg" href="Images/1948BSY_cover.jpg" media-type="image/jpeg"/>
+    <item id="x1948BSY_001.jpg" href="Images/1948BSY_001.jpg" media-type="image/jpeg"/>
+    <item id="author.xhtml" href="Text/author.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1954YG_cover.jpg" href="Images/1954YG_cover.jpg" media-type="image/jpeg"/>
+    <item id="x1954YG_cover_en.jpg" href="Images/1954YG_cover_en.jpg" media-type="image/jpeg"/>
+    <item id="x1954YG_001.jpg" href="Images/1954YG_001.jpg" media-type="image/jpeg"/>
+    <item id="x1954YG_EN.xhtml" href="Text/1954YG_EN.xhtml" media-type="application/xhtml+xml"/>
+    <item id="content.xhtml" href="Text/content.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1954CDZL_001.jpg" href="Images/1954CDZL_001.jpg" media-type="image/jpeg"/>
+    <item id="x1954CDZL_cover.jpg" href="Images/1954CDZL_cover.jpg" media-type="image/jpeg"/>
+    <item id="x1954YG_EN_01.xhtml" href="Text/1954YG_EN_01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1954YG_EN_02.xhtml" href="Text/1954YG_EN_02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1954YG_EN_03.xhtml" href="Text/1954YG_EN_03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1954YG_EN_04.xhtml" href="Text/1954YG_EN_04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1954YG_EN_05.xhtml" href="Text/1954YG_EN_05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1954YG_EN_06.xhtml" href="Text/1954YG_EN_06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1954YG_EN_07.xhtml" href="Text/1954YG_EN_07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1954YG_EN_08.xhtml" href="Text/1954YG_EN_08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1954YG_EN_09.xhtml" href="Text/1954YG_EN_09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1954YG_EN_10.xhtml" href="Text/1954YG_EN_10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1954YG_EN_11.xhtml" href="Text/1954YG_EN_11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1954YG_EN_12.xhtml" href="Text/1954YG_EN_12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1954YG_EN_13.xhtml" href="Text/1954YG_EN_13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1954YG_EN_14.xhtml" href="Text/1954YG_EN_14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1954YG_EN_15.xhtml" href="Text/1954YG_EN_15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1954YG_EN_16.xhtml" href="Text/1954YG_EN_16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1954YG_EN_17.xhtml" href="Text/1954YG_EN_17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1954YG_EN_ded.xhtml" href="Text/1954YG_EN_ded.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1954YG_EN_author.xhtml" href="Text/1954YG_EN_author.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="vinfo.xhtml"/>
+    <itemref idref="author.xhtml"/>
+    <itemref idref="content.xhtml"/>
+    <itemref idref="x1954YG_EN.xhtml"/>
+    <itemref idref="x1954YG_EN_author.xhtml"/>
+    <itemref idref="x1954YG_EN_ded.xhtml"/>
+    <itemref idref="x1954YG_EN_01.xhtml"/>
+    <itemref idref="x1954YG_EN_02.xhtml"/>
+    <itemref idref="x1954YG_EN_03.xhtml"/>
+    <itemref idref="x1954YG_EN_04.xhtml"/>
+    <itemref idref="x1954YG_EN_05.xhtml"/>
+    <itemref idref="x1954YG_EN_06.xhtml"/>
+    <itemref idref="x1954YG_EN_07.xhtml"/>
+    <itemref idref="x1954YG_EN_08.xhtml"/>
+    <itemref idref="x1954YG_EN_09.xhtml"/>
+    <itemref idref="x1954YG_EN_10.xhtml"/>
+    <itemref idref="x1954YG_EN_11.xhtml"/>
+    <itemref idref="x1954YG_EN_12.xhtml"/>
+    <itemref idref="x1954YG_EN_13.xhtml"/>
+    <itemref idref="x1954YG_EN_14.xhtml"/>
+    <itemref idref="x1954YG_EN_15.xhtml"/>
+    <itemref idref="x1954YG_EN_16.xhtml"/>
+    <itemref idref="x1954YG_EN_17.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+  </guide>
+</package>
