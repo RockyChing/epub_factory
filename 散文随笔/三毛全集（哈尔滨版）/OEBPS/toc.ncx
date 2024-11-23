@@ -255,6 +255,120 @@
     </navPoint>
     <navPoint id="navPoint-41" playOrder="41">
       <navLabel>
+        <text>三毛全集03：稻草人手记</text>
+      </navLabel>
+      <content src="Text/c03.xhtml"/>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>插图</text>
+        </navLabel>
+        <content src="Text/c03_ct.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>目录</text>
+        </navLabel>
+        <content src="Text/c03_toc.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>序言</text>
+        </navLabel>
+        <content src="Text/c03_forword01.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>江洋大盗</text>
+        </navLabel>
+        <content src="Text/c03_01.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>亲爱的婆婆大人</text>
+        </navLabel>
+        <content src="Text/c03_02.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>西风不识相</text>
+        </navLabel>
+        <content src="Text/c03_03.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>这样的人生</text>
+        </navLabel>
+        <content src="Text/c03_04.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>士为知己者死</text>
+        </navLabel>
+        <content src="Text/c03_05.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>警告逃妻</text>
+        </navLabel>
+        <content src="Text/c03_06.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>这种家庭生活</text>
+        </navLabel>
+        <content src="Text/c03_07.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>塑料儿童</text>
+        </navLabel>
+        <content src="Text/c03_08.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>卖花女</text>
+        </navLabel>
+        <content src="Text/c03_09.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>守望的天使</text>
+        </navLabel>
+        <content src="Text/c03_10.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>相思农场</text>
+        </navLabel>
+        <content src="Text/c03_11.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>巨人</text>
+        </navLabel>
+        <content src="Text/c03_12.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>目录</text>
+        </navLabel>
+        <content src="Text/c04_toc.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>目录</text>
+        </navLabel>
+        <content src="Text/c05_toc.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>目录</text>
+        </navLabel>
+        <content src="Text/c06_toc.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-60" playOrder="60">
+      <navLabel>
         <text>三毛全集07：梦里花落知多少</text>
       </navLabel>
       <content src="Text/c07.xhtml"/>

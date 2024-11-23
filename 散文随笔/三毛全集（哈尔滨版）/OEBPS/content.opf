@@ -7,7 +7,7 @@
     <dc:publisher>哈尔滨出版社</dc:publisher>
     <dc:description>三毛全集（哈尔滨版），共19册。</dc:description>
     <dc:date opf:event="creation">2024-09-15</dc:date>
-    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2024-11-21</dc:date>
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2024-11-23</dc:date>
     <meta content="1.8.0" name="Sigil version"/>
     <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:f050c7e2-bc58-419d-a587-ad55125e5eab</dc:identifier>
     <meta name="cover" content="c01.jpg"/>
@@ -160,6 +160,34 @@
     <item id="c05_toc.xhtml" href="Text/c05_toc.xhtml" media-type="application/xhtml+xml"/>
     <item id="c06_toc.xhtml" href="Text/c06_toc.xhtml" media-type="application/xhtml+xml"/>
     <item id="c08_toc.xhtml" href="Text/c08_toc.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c03.xhtml" href="Text/c03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c03.jpg" href="Images/c03.jpg" media-type="image/jpeg"/>
+    <item id="c03_cr.xhtml" href="Text/c03_cr.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c03_ct.xhtml" href="Text/c03_ct.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c03_01.xhtml" href="Text/c03_01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c03_02.xhtml" href="Text/c03_02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c03_03.xhtml" href="Text/c03_03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c03_04.xhtml" href="Text/c03_04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c03_05.xhtml" href="Text/c03_05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c03_06.xhtml" href="Text/c03_06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c03_07.xhtml" href="Text/c03_07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c03_08.xhtml" href="Text/c03_08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c03_09.xhtml" href="Text/c03_09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c03_10.xhtml" href="Text/c03_10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c03_11.xhtml" href="Text/c03_11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c03_12.xhtml" href="Text/c03_12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c03_01.jpg" href="Images/c03_01.jpg" media-type="image/jpeg"/>
+    <item id="c03_02.jpg" href="Images/c03_02.jpg" media-type="image/jpeg"/>
+    <item id="c03_03.jpg" href="Images/c03_03.jpg" media-type="image/jpeg"/>
+    <item id="c03_04.jpg" href="Images/c03_04.jpg" media-type="image/jpeg"/>
+    <item id="c03_05.jpg" href="Images/c03_05.jpg" media-type="image/jpeg"/>
+    <item id="c03_06.jpg" href="Images/c03_06.jpg" media-type="image/jpeg"/>
+    <item id="c03_07.jpg" href="Images/c03_07.jpg" media-type="image/jpeg"/>
+    <item id="c03_08.jpg" href="Images/c03_08.jpg" media-type="image/jpeg"/>
+    <item id="c03_09.jpg" href="Images/c03_09.jpg" media-type="image/jpeg"/>
+    <item id="c03_back.jpg" href="Images/c03_back.jpg" media-type="image/jpeg"/>
+    <item id="c03_bt.jpg" href="Images/c03_bt.jpg" media-type="image/jpeg"/>
+    <item id="c03_forword01.xhtml" href="Text/c03_forword01.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="cover.xhtml"/>
@@ -204,7 +232,23 @@
     <itemref idref="c02_13.xhtml"/>
     <itemref idref="c02_14.xhtml"/>
     <itemref idref="c02_15.xhtml"/>
+    <itemref idref="c03.xhtml"/>
+    <itemref idref="c03_cr.xhtml"/>
+    <itemref idref="c03_ct.xhtml"/>
     <itemref idref="c03_toc.xhtml"/>
+    <itemref idref="c03_forword01.xhtml"/>
+    <itemref idref="c03_01.xhtml"/>
+    <itemref idref="c03_02.xhtml"/>
+    <itemref idref="c03_03.xhtml"/>
+    <itemref idref="c03_04.xhtml"/>
+    <itemref idref="c03_05.xhtml"/>
+    <itemref idref="c03_06.xhtml"/>
+    <itemref idref="c03_07.xhtml"/>
+    <itemref idref="c03_08.xhtml"/>
+    <itemref idref="c03_09.xhtml"/>
+    <itemref idref="c03_10.xhtml"/>
+    <itemref idref="c03_11.xhtml"/>
+    <itemref idref="c03_12.xhtml"/>
     <itemref idref="c04_toc.xhtml"/>
     <itemref idref="c05_toc.xhtml"/>
     <itemref idref="c06_toc.xhtml"/>
