@@ -508,33 +508,9 @@
         <navLabel>
           <text></text>
         </navLabel>
-        <content src="Text/c05_11.xhtml"/>
+        <content src="Text/c06_ct.xhtml"/>
       </navPoint>
       <navPoint id="navPoint-84" playOrder="84">
-        <navLabel>
-          <text></text>
-        </navLabel>
-        <content src="Text/c05_12.xhtml"/>
-      </navPoint>
-      <navPoint id="navPoint-85" playOrder="85">
-        <navLabel>
-          <text></text>
-        </navLabel>
-        <content src="Text/c05_13.xhtml"/>
-      </navPoint>
-      <navPoint id="navPoint-86" playOrder="86">
-        <navLabel>
-          <text></text>
-        </navLabel>
-        <content src="Text/c05_14.xhtml"/>
-      </navPoint>
-      <navPoint id="navPoint-87" playOrder="87">
-        <navLabel>
-          <text></text>
-        </navLabel>
-        <content src="Text/c05_15.xhtml"/>
-      </navPoint>
-      <navPoint id="navPoint-88" playOrder="88">
         <navLabel>
           <text>目录</text>
         </navLabel>

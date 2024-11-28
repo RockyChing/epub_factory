@@ -231,13 +231,9 @@
     <item id="c05_06.xhtml" href="Text/c05_06.xhtml" media-type="application/xhtml+xml"/>
     <item id="c05_07.xhtml" href="Text/c05_07.xhtml" media-type="application/xhtml+xml"/>
     <item id="c05_08.xhtml" href="Text/c05_08.xhtml" media-type="application/xhtml+xml"/>
-    <item id="c05_09.xhtml" href="Text/c05_09.xhtml" media-type="application/xhtml+xml"/>
-    <item id="c05_10.xhtml" href="Text/c05_10.xhtml" media-type="application/xhtml+xml"/>
-    <item id="c05_11.xhtml" href="Text/c05_11.xhtml" media-type="application/xhtml+xml"/>
-    <item id="c05_12.xhtml" href="Text/c05_12.xhtml" media-type="application/xhtml+xml"/>
-    <item id="c05_13.xhtml" href="Text/c05_13.xhtml" media-type="application/xhtml+xml"/>
-    <item id="c05_14.xhtml" href="Text/c05_14.xhtml" media-type="application/xhtml+xml"/>
-    <item id="c05_15.xhtml" href="Text/c05_15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c06.xhtml" href="Text/c06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c06_cr.xhtml" href="Text/c06_cr.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c06_ct.xhtml" href="Text/c06_ct.xhtml" media-type="application/xhtml+xml"/>
     <item id="c05_forword01.xhtml" href="Text/c05_forword01.xhtml" media-type="application/xhtml+xml"/>
     <item id="c05.jpg" href="Images/c05.jpg" media-type="image/jpeg"/>
     <item id="c05_back.jpg" href="Images/c05_back.jpg" media-type="image/jpeg"/>
@@ -338,13 +334,9 @@
     <itemref idref="c05_06.xhtml"/>
     <itemref idref="c05_07.xhtml"/>
     <itemref idref="c05_08.xhtml"/>
-    <itemref idref="c05_09.xhtml"/>
-    <itemref idref="c05_10.xhtml"/>
-    <itemref idref="c05_11.xhtml"/>
-    <itemref idref="c05_12.xhtml"/>
-    <itemref idref="c05_13.xhtml"/>
-    <itemref idref="c05_14.xhtml"/>
-    <itemref idref="c05_15.xhtml"/>
+    <itemref idref="c06.xhtml"/>
+    <itemref idref="c06_cr.xhtml"/>
+    <itemref idref="c06_ct.xhtml"/>
     <itemref idref="c06_toc.xhtml"/>
     <itemref idref="c07.xhtml"/>
     <itemref idref="c07_cr.xhtml"/>
