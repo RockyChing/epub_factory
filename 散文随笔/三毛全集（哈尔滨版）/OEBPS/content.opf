@@ -188,6 +188,69 @@
     <item id="c03_back.jpg" href="Images/c03_back.jpg" media-type="image/jpeg"/>
     <item id="c03_bt.jpg" href="Images/c03_bt.jpg" media-type="image/jpeg"/>
     <item id="c03_forword01.xhtml" href="Text/c03_forword01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c09_toc.xhtml" href="Text/c09_toc.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c10_toc.xhtml" href="Text/c10_toc.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c11_toc.xhtml" href="Text/c11_toc.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c13_toc.xhtml" href="Text/c13_toc.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c12_toc.xhtml" href="Text/c12_toc.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c15_toc.xhtml" href="Text/c15_toc.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c16_toc.xhtml" href="Text/c16_toc.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c17_toc.xhtml" href="Text/c17_toc.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c18_toc.xhtml" href="Text/c18_toc.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c19_toc.xhtml" href="Text/c19_toc.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c04.xhtml" href="Text/c04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c04.jpg" href="Images/c04.jpg" media-type="image/jpeg"/>
+    <item id="c04_01.xhtml" href="Text/c04_01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c04_02.xhtml" href="Text/c04_02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c04_03.xhtml" href="Text/c04_03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c04_04.xhtml" href="Text/c04_04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c04_05.xhtml" href="Text/c04_05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c04_06.xhtml" href="Text/c04_06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c04_07.xhtml" href="Text/c04_07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c04_08.xhtml" href="Text/c04_08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c04_cr.xhtml" href="Text/c04_cr.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c04_ct.xhtml" href="Text/c04_ct.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c04_01.jpg" href="Images/c04_01.jpg" media-type="image/jpeg"/>
+    <item id="c04_02.jpg" href="Images/c04_02.jpg" media-type="image/jpeg"/>
+    <item id="c04_03.jpg" href="Images/c04_03.jpg" media-type="image/jpeg"/>
+    <item id="c04_04.jpg" href="Images/c04_04.jpg" media-type="image/jpeg"/>
+    <item id="c04_05.jpg" href="Images/c04_05.jpg" media-type="image/jpeg"/>
+    <item id="c04_06.jpg" href="Images/c04_06.jpg" media-type="image/jpeg"/>
+    <item id="c04_07.jpg" href="Images/c04_07.jpg" media-type="image/jpeg"/>
+    <item id="c04_back.jpg" href="Images/c04_back.jpg" media-type="image/jpeg"/>
+    <item id="c04_bt.jpg" href="Images/c04_bt.jpg" media-type="image/jpeg"/>
+    <item id="c04_forword01.xhtml" href="Text/c04_forword01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c05.xhtml" href="Text/c05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c05_cr.xhtml" href="Text/c05_cr.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c05_ct.xhtml" href="Text/c05_ct.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c05_01.xhtml" href="Text/c05_01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c05_02.xhtml" href="Text/c05_02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c05_03.xhtml" href="Text/c05_03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c05_04.xhtml" href="Text/c05_04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c05_05.xhtml" href="Text/c05_05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c05_06.xhtml" href="Text/c05_06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c05_07.xhtml" href="Text/c05_07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c05_08.xhtml" href="Text/c05_08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c05_09.xhtml" href="Text/c05_09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c05_10.xhtml" href="Text/c05_10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c05_11.xhtml" href="Text/c05_11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c05_12.xhtml" href="Text/c05_12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c05_13.xhtml" href="Text/c05_13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c05_14.xhtml" href="Text/c05_14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c05_15.xhtml" href="Text/c05_15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c05_forword01.xhtml" href="Text/c05_forword01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c05.jpg" href="Images/c05.jpg" media-type="image/jpeg"/>
+    <item id="c05_back.jpg" href="Images/c05_back.jpg" media-type="image/jpeg"/>
+    <item id="c05_01.jpg" href="Images/c05_01.jpg" media-type="image/jpeg"/>
+    <item id="c05_02.jpg" href="Images/c05_02.jpg" media-type="image/jpeg"/>
+    <item id="c05_03.jpg" href="Images/c05_03.jpg" media-type="image/jpeg"/>
+    <item id="c05_04.jpg" href="Images/c05_04.jpg" media-type="image/jpeg"/>
+    <item id="c05_05.jpg" href="Images/c05_05.jpg" media-type="image/jpeg"/>
+    <item id="c05_06.jpg" href="Images/c05_06.jpg" media-type="image/jpeg"/>
+    <item id="c05_07.jpg" href="Images/c05_07.jpg" media-type="image/jpeg"/>
+    <item id="c05_08.jpg" href="Images/c05_08.jpg" media-type="image/jpeg"/>
+    <item id="c05_09.jpg" href="Images/c05_09.jpg" media-type="image/jpeg"/>
+    <item id="c05_bt.jpg" href="Images/c05_bt.jpg" media-type="image/jpeg"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="cover.xhtml"/>
@@ -249,8 +312,39 @@
     <itemref idref="c03_10.xhtml"/>
     <itemref idref="c03_11.xhtml"/>
     <itemref idref="c03_12.xhtml"/>
+    <itemref idref="c04.xhtml"/>
+    <itemref idref="c04_cr.xhtml"/>
+    <itemref idref="c04_ct.xhtml"/>
     <itemref idref="c04_toc.xhtml"/>
+    <itemref idref="c04_forword01.xhtml"/>
+    <itemref idref="c04_01.xhtml"/>
+    <itemref idref="c04_02.xhtml"/>
+    <itemref idref="c04_03.xhtml"/>
+    <itemref idref="c04_04.xhtml"/>
+    <itemref idref="c04_05.xhtml"/>
+    <itemref idref="c04_06.xhtml"/>
+    <itemref idref="c04_07.xhtml"/>
+    <itemref idref="c04_08.xhtml"/>
+    <itemref idref="c05.xhtml"/>
+    <itemref idref="c05_cr.xhtml"/>
+    <itemref idref="c05_ct.xhtml"/>
     <itemref idref="c05_toc.xhtml"/>
+    <itemref idref="c05_forword01.xhtml"/>
+    <itemref idref="c05_01.xhtml"/>
+    <itemref idref="c05_02.xhtml"/>
+    <itemref idref="c05_03.xhtml"/>
+    <itemref idref="c05_04.xhtml"/>
+    <itemref idref="c05_05.xhtml"/>
+    <itemref idref="c05_06.xhtml"/>
+    <itemref idref="c05_07.xhtml"/>
+    <itemref idref="c05_08.xhtml"/>
+    <itemref idref="c05_09.xhtml"/>
+    <itemref idref="c05_10.xhtml"/>
+    <itemref idref="c05_11.xhtml"/>
+    <itemref idref="c05_12.xhtml"/>
+    <itemref idref="c05_13.xhtml"/>
+    <itemref idref="c05_14.xhtml"/>
+    <itemref idref="c05_15.xhtml"/>
     <itemref idref="c06_toc.xhtml"/>
     <itemref idref="c07.xhtml"/>
     <itemref idref="c07_cr.xhtml"/>
@@ -270,6 +364,12 @@
     <itemref idref="c07_12.xhtml"/>
     <itemref idref="c07_13.xhtml"/>
     <itemref idref="c07_14.xhtml"/>
+    <itemref idref="c08_toc.xhtml"/>
+    <itemref idref="c09_toc.xhtml"/>
+    <itemref idref="c10_toc.xhtml"/>
+    <itemref idref="c11_toc.xhtml"/>
+    <itemref idref="c12_toc.xhtml"/>
+    <itemref idref="c13_toc.xhtml"/>
     <itemref idref="c14.xhtml"/>
     <itemref idref="c14_cr.xhtml"/>
     <itemref idref="c14_ct.xhtml"/>
@@ -293,11 +393,17 @@
     <itemref idref="c14_15.xhtml"/>
     <itemref idref="c14_16.xhtml"/>
     <itemref idref="c14_17.xhtml"/>
+    <itemref idref="c15_toc.xhtml"/>
+    <itemref idref="c16_toc.xhtml"/>
+    <itemref idref="c17_toc.xhtml"/>
+    <itemref idref="c18_toc.xhtml"/>
+    <itemref idref="c19_toc.xhtml"/>
     <itemref idref="fulu.xhtml"/>
     <itemref idref="fulu01.xhtml"/>
     <itemref idref="fulu02.xhtml"/>
   </spine>
   <guide>
     <reference type="cover" title="封面" href="Text/cover.xhtml"/>
+    <reference type="toc" title="目录" href="Text/TOC.xhtml"/>
   </guide>
 </package>
