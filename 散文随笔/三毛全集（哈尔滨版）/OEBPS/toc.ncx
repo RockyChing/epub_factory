@@ -452,72 +452,156 @@
       </navPoint>
       <navPoint id="navPoint-74" playOrder="74">
         <navLabel>
-          <text></text>
+          <text>五月花</text>
         </navLabel>
         <content src="Text/c05_02.xhtml"/>
       </navPoint>
       <navPoint id="navPoint-75" playOrder="75">
         <navLabel>
-          <text></text>
+          <text>玛黛拉游记</text>
         </navLabel>
         <content src="Text/c05_03.xhtml"/>
       </navPoint>
       <navPoint id="navPoint-76" playOrder="76">
         <navLabel>
-          <text></text>
+          <text>温柔的夜</text>
         </navLabel>
         <content src="Text/c05_04.xhtml"/>
       </navPoint>
       <navPoint id="navPoint-77" playOrder="77">
         <navLabel>
-          <text></text>
+          <text>石头记</text>
         </navLabel>
         <content src="Text/c05_05.xhtml"/>
       </navPoint>
       <navPoint id="navPoint-78" playOrder="78">
         <navLabel>
-          <text></text>
+          <text>相逢何必曾相识</text>
         </navLabel>
         <content src="Text/c05_06.xhtml"/>
       </navPoint>
       <navPoint id="navPoint-79" playOrder="79">
         <navLabel>
-          <text></text>
+          <text>永远的马利亚</text>
         </navLabel>
         <content src="Text/c05_07.xhtml"/>
       </navPoint>
       <navPoint id="navPoint-80" playOrder="80">
         <navLabel>
-          <text></text>
+          <text>附录：我不是三毛迷 ——读《温柔的夜》</text>
         </navLabel>
         <content src="Text/c05_08.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-81" playOrder="81">
-        <navLabel>
-          <text></text>
-        </navLabel>
-        <content src="Text/c05_09.xhtml"/>
-      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-81" playOrder="81">
+      <navLabel>
+        <text>三毛全集06：背影</text>
+      </navLabel>
+      <content src="Text/c06.xhtml"/>
       <navPoint id="navPoint-82" playOrder="82">
         <navLabel>
-          <text></text>
-        </navLabel>
-        <content src="Text/c05_10.xhtml"/>
-      </navPoint>
-      <navPoint id="navPoint-83" playOrder="83">
-        <navLabel>
-          <text></text>
+          <text>插图</text>
         </navLabel>
         <content src="Text/c06_ct.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-84" playOrder="84">
+      <navPoint id="navPoint-83" playOrder="83">
         <navLabel>
           <text>目录</text>
         </navLabel>
         <content src="Text/c06_toc.xhtml"/>
       </navPoint>
+      <navPoint id="navPoint-84" playOrder="84">
+        <navLabel>
+          <text>逃学为读书（代序）</text>
+        </navLabel>
+        <content src="Text/c06_forword01.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-85" playOrder="85">
+        <navLabel>
+          <text>《永远的夏娃》开场白</text>
+        </navLabel>
+        <content src="Text/c06_01.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-86" playOrder="86">
+        <navLabel>
+          <text>拾荒梦</text>
+        </navLabel>
+        <content src="Text/c06_02.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-87" playOrder="87">
+        <navLabel>
+          <text>黄昏的故事</text>
+        </navLabel>
+        <content src="Text/c06_03.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-88" playOrder="88">
+        <navLabel>
+          <text>巫人记</text>
+        </navLabel>
+        <content src="Text/c06_04.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-89" playOrder="89">
+        <navLabel>
+          <text>饺子大王</text>
+        </navLabel>
+        <content src="Text/c06_05.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-90" playOrder="90">
+        <navLabel>
+          <text>赤足天使</text>
+        </navLabel>
+        <content src="Text/c06_06.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-91" playOrder="91">
+        <navLabel>
+          <text>亲不亲，故乡人</text>
+        </navLabel>
+        <content src="Text/c06_07.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-92" playOrder="92">
+        <navLabel>
+          <text>浪迹天涯话买卖</text>
+        </navLabel>
+        <content src="Text/c06_08.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-93" playOrder="93">
+        <navLabel>
+          <text>背影</text>
+        </navLabel>
+        <content src="Text/c06_09.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-94" playOrder="94">
+        <navLabel>
+          <text>荒山之夜</text>
+        </navLabel>
+        <content src="Text/c06_10.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-95" playOrder="95">
+        <navLabel>
+          <text>克里斯</text>
+        </navLabel>
+        <content src="Text/c06_11.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-96" playOrder="96">
+        <navLabel>
+          <text>离乡回乡</text>
+        </navLabel>
+        <content src="Text/c06_12.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-97" playOrder="97">
+        <navLabel>
+          <text>雨禅台北</text>
+        </navLabel>
+        <content src="Text/c06_13.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-98" playOrder="98">
+        <navLabel>
+          <text>周末</text>
+        </navLabel>
+        <content src="Text/c06_14.xhtml"/>
+      </navPoint>
     </navPoint>
-    <navPoint id="navPoint-89" playOrder="89">
+    <navPoint id="navPoint-99" playOrder="99">
       <navLabel>
         <text>三毛全集07：梦里花落知多少</text>
       </navLabel>
